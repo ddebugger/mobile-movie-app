@@ -1,7 +1,14 @@
+import { StyleSheet, Text, View } from "react-native";
 import React from "react";
 
 const Layout = () => {
-  return <div>this is a layout page</div>;
+  return (
+    <View>
+      <Text>Layout</Text>
+    </View>
+  );
 };
 
 export default Layout;
+
+const styles = StyleSheet.create({});
