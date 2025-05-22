@@ -4,7 +4,7 @@ import React from "react";
 const save = () => {
   return (
     <View>
-      <Text>Save Screen</Text>
+      <Text>Save Screen page</Text>
     </View>
   );
 };
